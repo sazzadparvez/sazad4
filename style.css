@@ -1,0 +1,21 @@
+*{margin:0;padding:0}
+body{font-family:arial;font-size:16px;line-height:22px;color:#666}
+.main{width:960px;margin:0px auto}
+.menu
+.menu h3{color:red}
+.menu img{margin-left:19px;margin-top: 14px}
+.mainmenu{}
+.whats{width:350px}
+.whats h3{color:#04699E}
+.why{width:490px;float:right;margin-top: -239px;background-color:#E5EEF5;padding:10px;border-radious:10px;}
+.why h3{color:#04699E}
+.manpacks{}
+.man1{width: 451px;
+margin-top: 27px}
+.man2{margin-left: 470px;
+margin-top: -230px}
+.footer{padding:15px;
+    background-color:#00709A;
+margin-top: 15px;}
+.footer h3{color:white}
+.footer p{color:white}
